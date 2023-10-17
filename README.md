@@ -15,7 +15,7 @@ The first few search results for any gaming question you have should always be h
 ## Installation instructions
 
 1. Install uBlacklist for [Chrome](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
-2. Download [uBlacklist.txt](https://google.com)
+2. Download [uBlacklist.txt](https://github.com/bschoreman91/gaming-website-blacklist/blob/main/uBlacklist.txt)
 3. Go to uBlacklist options in [Chrome](chrome-extension://pncfbmialoiaghdehhbnbhkkgmjanfhe/pages/options.html) or by clicking the extension and clicking "options" in Firefox
 4. Click Import and select the uBlacklist.txt you downloaded earlier
 
@@ -35,7 +35,6 @@ Websites that feature pages which match one or more of the following criteria ha
 - Baldur's Gate 3
 - Stardew Valley
 - Vampire Survivors
-
 
 ## How to contribute
 
